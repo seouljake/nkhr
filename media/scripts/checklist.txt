@@ -1,21 +1,9 @@
 
+add score rank
 
+sort cdf by sum of score ranks
 
-2002
-
-2003
-
-2004
-
-2005
-
-
-
-2014
-
-2015
-
-2016
+export component articles as a "user-friendly" html file
 
 
 
