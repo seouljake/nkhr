@@ -1,9 +1,0 @@
-
-add score rank
-
-sort cdf by sum of score ranks
-
-export component articles as a "user-friendly" html file
-
-
-
